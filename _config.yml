@@ -30,7 +30,7 @@ url: "https://ruigs.github.io" # the base hostname & protocol for your site, e.g
 github_username:  ruigs
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
